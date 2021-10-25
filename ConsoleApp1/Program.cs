@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             Robot sampleRobot = new Robot("Marianne");
             sampleRobot.Greet();
+
+            Console.WriteLine("Hello world");
         }
     }
 
